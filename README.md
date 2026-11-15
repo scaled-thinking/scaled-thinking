@@ -64,8 +64,9 @@ More follow one by one, as long as they are still current.
 
 ## Background
 
-- **Trainer** for innovation venture labs and for innovation processes and management, from a design
-  thinking, lean startup and change management perspective.
+- **Workstream lead** for large infrastructure programmes with thousands of virtual machines.
+- **Founder and trainer** of an innovation venture lab: innovation processes and management, from a
+  design thinking, lean startup and change management perspective.
 - **Agentic AI** in private projects since 2023, from first experiments with AutoGPT to fully automated systems.
 
 From infrastructure work I bring one habit: every change needs a plan, a fallback and evidence. My
