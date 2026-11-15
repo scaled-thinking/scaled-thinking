@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/assets/journey-dark.svg">
-  <img alt="My route since October 2025, in four stations. October 2025, the turning point: from competing with AI to learning with it. Since then, all in: AI in my daily work, and I stay the one who decides. November 2026, going public: first open repositories, after private projects since 2023. Next: an agent-first platform, in progress." src="docs/assets/journey-light.svg" width="100%">
+  <img alt="My route since 2020, in eight stations. 2020, machine learning: the foundations, models that learn from data. 2021, IT strategy: designing how technology serves an organisation. 2022, the ChatGPT moment: chatbots for everyone. 2023, first agents: early experiments with AutoGPT. October 2025, the turning point: from competing with AI to learning with it. Since then, orchestration: several agents in one workflow, and I stay the one who decides. 2026, self-improving systems: agents that improve their own work, and my first open repositories. The way I see it ahead: fully autonomous agent organisations, where startups of one to four people do the work of hundreds, some at unicorn scale." src="docs/assets/journey-light.svg" width="100%">
 </picture>
 
 ## The moment work changed
