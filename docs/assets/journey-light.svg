@@ -1,44 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 416" width="1100" height="416" role="img" aria-labelledby="title desc">
   <title id="title">My route since 2020</title>
-  <desc id="desc">My route since 2020, in eight stations. 2020, first contact with AI: machine learning, models that learn from data. 2021, IT strategy: designing how technology serves an organisation. 2022, the ChatGPT moment: chatbots for everyone. 2023, first agents: early experiments with AutoGPT. October 2025, the turning point: from competing with AI to learning with it. Since then, orchestration: several agents in one workflow, and I stay the one who decides. 2026, self-improving systems: agents that improve their own work, and my first open repositories. The way I see it ahead: fully autonomous agent organisations, where startups of one to four people do the work of hundreds, some at unicorn scale.</desc>
+  <desc id="desc">My route since 2020, in nine stations. 2020, first contact with AI: machine learning. 2021, IT strategy: designing how technology serves an organisation. 2022, the ChatGPT moment: chatbots for everyone. 2023, first agents: early experiments with AutoGPT. October 2025, the turning point: from competing with AI to learning with it. Since then, orchestration: several agents in one workflow, and I stay the one who decides. 2026, self-improving systems: agents that improve their own work, and my first open repositories. Ahead, the way I see it: superintelligence in 2027 or 2028, and we need to upskill to make the best use of it; then fully autonomous agent organisations, where startups of one to four people do the work of hundreds, some at unicorn scale.</desc>
   <text x="20" y="28" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="1.5" fill="#59636e">MY ROUTE SINCE 2020</text>
-  <line x1="152.5" y1="100" x2="1080" y2="100" stroke="#0e7c7b" stroke-width="3" stroke-linecap="round" />
-  <line x1="20" y1="300" x2="682.5" y2="300" stroke="#0e7c7b" stroke-width="3" stroke-linecap="round" />
-  <line x1="682.5" y1="300" x2="947.5" y2="300" stroke="#0e7c7b" stroke-width="3" stroke-dasharray="2 9" stroke-linecap="round" />
-  <text x="152.5" y="68" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">2020</text>
-  <circle cx="152.5" cy="100" r="13" fill="#0e7c7b" stroke="#ffffff" stroke-width="4" />
-  <text x="152.5" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">First contact with AI</text>
-  <text x="152.5" y="172" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">machine learning:</text>
-  <text x="152.5" y="194" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">models that learn from data</text>
-  <text x="417.5" y="68" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">2021</text>
-  <circle cx="417.5" cy="100" r="13" fill="#0e7c7b" stroke="#ffffff" stroke-width="4" />
-  <text x="417.5" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">IT strategy</text>
-  <text x="417.5" y="172" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">designing how technology</text>
-  <text x="417.5" y="194" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">serves an organisation</text>
-  <text x="682.5" y="68" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">2022</text>
-  <circle cx="682.5" cy="100" r="13" fill="#0e7c7b" stroke="#ffffff" stroke-width="4" />
-  <text x="682.5" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">The ChatGPT moment</text>
-  <text x="682.5" y="172" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">chatbots for everyone</text>
-  <text x="947.5" y="68" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">2023</text>
-  <circle cx="947.5" cy="100" r="13" fill="#0e7c7b" stroke="#ffffff" stroke-width="4" />
-  <text x="947.5" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">First agents</text>
-  <text x="947.5" y="172" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">early experiments</text>
-  <text x="947.5" y="194" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">with AutoGPT</text>
-  <text x="152.5" y="268" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">OCT 2025</text>
+  <line x1="120" y1="100" x2="1080" y2="100" stroke="#0e7c7b" stroke-width="3" stroke-linecap="round" />
+  <line x1="20" y1="300" x2="417.5" y2="300" stroke="#0e7c7b" stroke-width="3" stroke-linecap="round" />
+  <line x1="417.5" y1="300" x2="947.5" y2="300" stroke="#0e7c7b" stroke-width="3" stroke-dasharray="2 9" stroke-linecap="round" />
+  <text x="120" y="68" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">2020</text>
+  <circle cx="120" cy="100" r="13" fill="#0e7c7b" stroke="#ffffff" stroke-width="4" />
+  <text x="120" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">First contact with AI</text>
+  <text x="120" y="172" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">machine learning</text>
+  <text x="335" y="68" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">2021</text>
+  <circle cx="335" cy="100" r="13" fill="#0e7c7b" stroke="#ffffff" stroke-width="4" />
+  <text x="335" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">IT strategy</text>
+  <text x="335" y="172" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">designing how technology</text>
+  <text x="335" y="194" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">serves an organisation</text>
+  <text x="550" y="68" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">2022</text>
+  <circle cx="550" cy="100" r="13" fill="#0e7c7b" stroke="#ffffff" stroke-width="4" />
+  <text x="550" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">The ChatGPT moment</text>
+  <text x="550" y="172" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">chatbots for everyone</text>
+  <text x="765" y="68" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">2023</text>
+  <circle cx="765" cy="100" r="13" fill="#0e7c7b" stroke="#ffffff" stroke-width="4" />
+  <text x="765" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">First agents</text>
+  <text x="765" y="172" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">early experiments</text>
+  <text x="765" y="194" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">with AutoGPT</text>
+  <text x="980" y="68" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">OCT 2025</text>
+  <circle cx="980" cy="100" r="13" fill="#0e7c7b" stroke="#ffffff" stroke-width="4" />
+  <text x="980" y="146" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">The turning point</text>
+  <text x="980" y="172" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">from competing with AI</text>
+  <text x="980" y="194" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">to learning with it</text>
+  <text x="152.5" y="268" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">SINCE THEN</text>
   <circle cx="152.5" cy="300" r="13" fill="#0e7c7b" stroke="#ffffff" stroke-width="4" />
-  <text x="152.5" y="346" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">The turning point</text>
-  <text x="152.5" y="372" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">from competing with AI</text>
-  <text x="152.5" y="394" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">to learning with it</text>
-  <text x="417.5" y="268" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">SINCE THEN</text>
+  <text x="152.5" y="346" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">Orchestration</text>
+  <text x="152.5" y="372" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">several agents, one workflow,</text>
+  <text x="152.5" y="394" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">I stay the one who decides</text>
+  <text x="417.5" y="268" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">2026</text>
   <circle cx="417.5" cy="300" r="13" fill="#0e7c7b" stroke="#ffffff" stroke-width="4" />
-  <text x="417.5" y="346" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">Orchestration</text>
-  <text x="417.5" y="372" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">several agents, one workflow,</text>
-  <text x="417.5" y="394" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">I stay the one who decides</text>
-  <text x="682.5" y="268" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">2026</text>
-  <circle cx="682.5" cy="300" r="13" fill="#0e7c7b" stroke="#ffffff" stroke-width="4" />
-  <text x="682.5" y="346" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">Self-improving systems</text>
-  <text x="682.5" y="372" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">agents that improve their work,</text>
-  <text x="682.5" y="394" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">first open repositories</text>
+  <text x="417.5" y="346" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">Self-improving systems</text>
+  <text x="417.5" y="372" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">agents that improve their work,</text>
+  <text x="417.5" y="394" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">first open repositories</text>
+  <text x="682.5" y="268" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">2027/28</text>
+  <circle cx="682.5" cy="300" r="13" fill="#ffffff" stroke="#0e7c7b" stroke-width="3" />
+  <text x="682.5" y="346" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">Superintelligence</text>
+  <text x="682.5" y="372" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">we need to upskill</text>
+  <text x="682.5" y="394" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="15" fill="#1f2328">to make the best use of it</text>
   <text x="947.5" y="268" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#59636e">THE WAY I SEE IT</text>
   <circle cx="947.5" cy="300" r="13" fill="#ffffff" stroke="#0e7c7b" stroke-width="3" />
   <text x="947.5" y="346" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">Agent organisations</text>
