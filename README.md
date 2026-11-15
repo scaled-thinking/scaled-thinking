@@ -1,4 +1,4 @@
-<img src="docs/assets/profile-banner.jpg" width="100%" alt="Don't outsource your thinking. Scale it. People decide, agents do the work, and everyone gets more capable. Risograph print in red, teal and blue: a red hand in a dotted sleeve holds the carving tool, a blue robot hand presses the carved block, and a row of identical teal prints rises across the paper.">
+<img src="docs/assets/profile-banner.jpg" width="100%" alt="Don't outsource your thinking. Scale it. People decide, agents do the work, and everyone gets more capable. Risograph print in red, teal and blue: a red hand in a striped sleeve holds the carving tool, a blue robot hand presses the carved block, and a row of identical teal prints rises across the paper.">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/assets/journey-dark.svg">
