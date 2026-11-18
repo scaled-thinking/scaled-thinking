@@ -1,22 +1,21 @@
 <img src="docs/assets/competence-enhancing.jpg" alt="Competence-enhancing AI: more capable, not more dependent. It explains. You decide. You keep what you learn. Risograph print in red, teal and blue: a robot hand shows a loose knot on its own thread while a human hand ties the same knot on its own thread, which already holds two knots of its own.">
 
+scaled-thinking is a family of free, open modules for your own AI agent. Each module is a specialist
+(an agent, a service or a capability) that extends what you and your agent can do. Take one or
+several: most modules run only while they are needed.
+
+To find yours, copy this prompt into your AI agent. It reads the public repositories here and
+suggests modules from what it knows about your work.
+
 ```text
-Look at https://github.com/scaled-thinking and its public repositories. Based on what
-you know about me, my work and my current tasks, pick the modules that would help me
-most, as many as are useful. If you know too little about me, ask me three short
-questions first. Introduce each module in a few sentences, say why it fits me and
-whether it is ready to use, then discuss them with me. I decide what to try; don't
-install or run anything yet. Reply in my language.
+Look at https://github.com/scaled-thinking and its public repositories. Based on what you know about
+me, my work and my current tasks, pick the modules that would help me most, as many as are useful.
+If you know too little about me, ask me three short questions first. Introduce each module in a few
+sentences, say why it fits me and whether it is ready to use, then discuss them with me. I decide
+what to try; don't install or run anything yet. Reply in my language.
 ```
 
-Copy this into your AI agent. It reads the public repositories here and suggests modules from what
-it knows about your work.
-
-scaled-thinking is a family of free, open modules for your own AI agent. Each module is a specialist
-(an agent, a service or a capability) that makes you and your agent more capable. Take one or
-twenty: most modules run only while they are needed.
-
-Your agent needs web access to read GitHub. Each module is yours to keep: the open licence lets you
+Your agent needs web access to read GitHub. Each module is yours to keep: its open licence lets you
 use, change and share it, for good. What your agent knows about you stays between you, your AI
 provider and the services your agent uses; the modules send nothing to scaled-thinking, and you need
 no account with us.
@@ -58,8 +57,8 @@ able to do: chat, or open files and run programs. To build and test, the agent r
 not you.
 
 For each ready module you paste one prompt; it tells your agent where the module is and how to
-start. The agent asks you first before it spends money, publishes anything or sends your material
-to another service.
+start. Before it spends money, publishes anything or sends your material to another service, the
+agent asks you first, or in an autonomous mode stays within the permissions you gave it.
 
 [The maintained tool list](https://github.com/scaled-thinking/present-together/blob/main/skills/interactive-classroom-presentation/references/tools-and-models.md)
 names the agents that should work for present-together, judged from each product's documentation.
