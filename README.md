@@ -1,8 +1,8 @@
 <img src="docs/assets/competence-enhancing.jpg" alt="Competence-enhancing AI: more capable, not more dependent. It explains. You decide. You keep what you learn. Risograph print in red, teal and blue: a robot hand shows a loose knot on its own thread while a human hand ties the same knot on its own thread, which already holds two knots of its own.">
 
-scaled-thinking is a family of free, open modules for your own AI agent. Each module is a specialist
+**scaled-thinking is a family of free, open modules for your own AI agent. Each module is a specialist
 (an agent, a service or a capability) that extends what you and your agent can do. Take one or
-several: most modules run only while they are needed.
+several: most modules run only while they are needed.**
 
 To find yours, copy this prompt into your AI agent. It reads the public repositories here and
 suggests modules from what it knows about your work.
