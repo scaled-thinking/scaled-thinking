@@ -15,9 +15,9 @@ sentences, say why it fits me and whether it is ready to use, then discuss them 
 what to try; don't install or run anything yet. Reply in my language.
 ```
 
-Your agent needs web access to read GitHub. Each module is yours to keep: its open licence
+Your agent needs web access to read GitHub. Each module is yours to keep: its open licences
 (Apache-2.0 for code, including `SKILL.md` and prompt files; CC BY 4.0 for texts and images;
-exceptions in its NOTICE) lets you use, change and share it, for good. What your agent knows about
+exceptions in its NOTICE) let you use, change and share it, for good. What your agent knows about
 you stays between you, your AI provider and the services your agent uses; the modules send nothing
 to scaled-thinking, and you need no account with us.
 
