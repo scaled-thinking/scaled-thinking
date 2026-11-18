@@ -153,4 +153,4 @@ globally.
 
 </details>
 
-Ventures, collaborations, talks or questions: qek4g8pbw@mozmail.com
+Questions and feedback: contact@scaled-thinking.com
