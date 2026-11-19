@@ -1,9 +1,10 @@
 <img src="docs/assets/competence-enhancing.jpg" alt="Competence-enhancing AI: more capable, not more dependent. It explains. You decide. You keep what you learn. Risograph print in red, teal and blue: a robot hand shows a loose knot on its own thread while a human hand ties the same knot on its own thread, which already holds two knots of its own.">
 
-**Free tools for your AI: they do the work with you, and you get better at it.**
+**scaled-thinking is a family of free, open modules for your own AI agent. Each module is a specialist
+(an agent, a service or a capability) that extends what you and your agent can do. Take one or
+several: most modules run only while they are needed.**
 
-For anyone who uses AI and wants to grow with it, not depend on it. Each tool, called a module,
-helps your AI with one job, such as coaching a talk or testing an idea.
+For anyone who uses AI and wants to grow with it, not depend on it.
 
 Say you have a talk next week. The AI asks what your audience should remember, suggests a strong
 opening and builds a quick live poll. It says why each idea works; you choose what to keep and take the
